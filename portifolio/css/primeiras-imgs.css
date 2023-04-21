@@ -1,0 +1,24 @@
+.img-meio{
+    width: 25%;
+    margin-right: 5%;
+   
+}
+.img-1{
+    width: 28%;
+    
+    display: inline-block;
+    margin-right: 5%;
+    cursor: pointer;
+    cursor: hand;
+
+}
+
+.imgs1{
+    margin-left: 250px;
+    
+
+}
+
+.topo{
+    width: 100%;
+}

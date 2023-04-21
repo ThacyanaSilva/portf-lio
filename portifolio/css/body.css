@@ -1,0 +1,18 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(to bottom, rgb(199, 174, 250) 0%, rgb(214, 200, 250) 57%);
+
+}
+.port{
+    margin-left: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
+ }
+ 
+

@@ -1,0 +1,43 @@
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    height: 130px;
+    background: linear-gradient(90deg, rgb(204, 158, 247) 0%, rgba(158,113,247,1) 100%);
+}
+.menu{
+    display: flex;
+}
+
+.menu li{
+    margin-left: 80px;
+    margin-right: 40px;
+   
+}
+
+.menu li a:hover{
+    color: rgba(98, 7, 151, 0.384);
+}
+
+.cabeçalho{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.menu > li{
+    list-style-type: none;
+}
+
+.logo{
+    background-color: rgb(204, 158, 247);
+    cursor: pointer;
+    margin-left: 10px;
+    border-top-left-radius: 16px;
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    width: 130px;
+}
+
